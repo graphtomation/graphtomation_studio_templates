@@ -2,7 +2,7 @@ import os
 import importlib.util
 
 # The top-level package name of your installed package.
-PACKAGE_NAME = "adimis_automation_templates_v0_1_0"
+PACKAGE_NAME = "graphtomation_studio_templates"
 # Set the templates folder relative to this file's location.
 TEMPLATES_FOLDER = os.path.dirname(__file__)
 EXCLUDE_FOLDERS = ["lib"]
