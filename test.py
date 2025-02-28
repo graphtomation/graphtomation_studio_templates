@@ -1,0 +1,3 @@
+from adimis_automation_templates_v0_1_0.templates.schema import get_graph_templates
+
+get_graph_templates()

@@ -1,0 +1,71 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+.turbo
+api/temp/
+archive
+celerybeat-schedule.db
+requirements_b.txt
+etc
+./etc
+
+# Virtual environment directories
+venv/
+env/
+ENV/
+.venv/
+.virtualenv/
+
+# Django specific files
+db.sqlite3
+*.log
+media/
+staticfiles/
+docs
+
+# Environment variables
+.env
+*.env
+.env
+.env.prod
+
+# Local settings
+local_settings.py
+settings_local.py
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Test and coverage reports
+htmlcov/
+.coverage
+.tox/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*,cover
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MyPy cache
+.mypy_cache/
+
+# Pylint reports
+pylint.out
+
+# Other
+*.swp

@@ -1,0 +1,5 @@
+PROPRIETARY LICENSE
+
+Copyright (c) 2025 Adimis and Graphtomation.
+
+This software is licensed exclusively to members, clients, and partners of Adimis and Graphtomation. Redistribution or reuse of this software, in whole or in part, without explicit written permission is prohibited.
