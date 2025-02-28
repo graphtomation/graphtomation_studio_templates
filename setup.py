@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
-import os
+
 
 # Define the package name once
-package_name = "adimis_automation_templates_v0_1_0"
+package_name = "graphtomation_studio_templates"
 
 # Read the long description from README.md
 with open("README.md", "r", encoding="utf-8") as fh:

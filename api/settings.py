@@ -17,7 +17,7 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
-    "adimis_automation_templates_v0_1_0.templates",
+    "graphtomation_studio_templates.templates",
     "rest_framework"
 ]
 
