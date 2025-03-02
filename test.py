@@ -1,3 +1,0 @@
-from graphtomation_studio_templates.templates.schema import get_graph_templates
-
-get_graph_templates()
