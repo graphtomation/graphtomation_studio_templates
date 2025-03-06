@@ -2,4 +2,9 @@ PROPRIETARY LICENSE
 
 Copyright (c) 2025 Adimis and Graphtomation.
 
-This software is the exclusive property of the client or partner of Adimis or Graphtomation who has paid for the creation of the templates within this codebase. The designated owner has full rights to use, modify, distribute, or license the software as they see fit. No other entity, including Adimis, Graphtomation, or any third party, holds any rights over this software unless explicitly granted by the sole owner. Redistribution or reuse by any unauthorized party is strictly prohibited.
+The original codebase is a publicly available GitHub template owned solely by Adimis and Graphtomation. This base template contains universally usable templates accessible to the public.
+
+When a client or partner of Adimis or Graphtomation requests a template, a new repository is created specifically for them. The client or partner who has paid for the creation of this repository becomes its sole owner. They have full rights to use, modify, distribute, or license the repository as they see fit.
+
+Adimis and Graphtomation retain ownership of the original public template but do not hold any rights over the client-specific repositories once transferred. Redistribution or reuse by any unauthorized party is strictly prohibited.
+
