@@ -1,10 +1,39 @@
-PROPRIETARY LICENSE
+PROPRIETARY LICENSE AGREEMENT
 
-Copyright (c) 2025 Adimis and Graphtomation.
+Copyright (c) 2025 Adimis and Graphtomation
 
-The original codebase is a publicly available GitHub template owned solely by Adimis and Graphtomation. This base template contains universally usable templates accessible to the public.
+IMPORTANT – READ CAREFULLY: This Proprietary License Agreement (“Agreement”) is a legally binding contract between you (the “Licensee”) and Adimis and Graphtomation (collectively, the “Licensors”). By accessing or using the Software (as defined below), you agree to be bound by all the terms and conditions set forth in this Agreement. If you do not agree to these terms, do not access or use the Software.
 
-When a client or partner of Adimis or Graphtomation requests a template, a new repository is created specifically for them. The client or partner who has paid for the creation of this repository becomes its sole owner. They have full rights to use, modify, distribute, or license the repository as they see fit.
+1. Definitions  
+  a. “Base Template” means the original codebase, a publicly available GitHub template, which contains universally usable templates and is solely owned by Adimis and Graphtomation.  
+  b. “Client Repository” means the repository created specifically for a client or partner upon request and payment, which is tailored from the Base Template.
 
-Adimis and Graphtomation retain ownership of the original public template but do not hold any rights over the client-specific repositories once transferred. Redistribution or reuse by any unauthorized party is strictly prohibited.
+2. Ownership and Rights  
+  a. Base Template Ownership: Adimis and Graphtomation retain all rights, title, and interest in and to the Base Template. The Base Template remains publicly available and is subject to its own licensing terms.  
+  b. Client Repository Transfer: Upon payment and creation of a Client Repository, ownership of that Client Repository is transferred exclusively to the client or partner. The Licensee of a Client Repository shall have full rights to use, modify, distribute, and license the Client Repository as they see fit.  
+  c. No Cross-Transfer of Rights: The transfer of the Client Repository does not confer any rights over the Base Template. Adimis and Graphtomation retain exclusive ownership of the Base Template.
 
+3. Restrictions  
+  a. Unauthorized Redistribution: Redistribution, reuse, or sharing of the Client Repository by any party not expressly authorized is strictly prohibited.  
+  b. Separation of Assets: The Licensee’s rights in the Client Repository are limited solely to that repository and do not extend to the Base Template or any components not specifically transferred.  
+  c. Compliance: The Licensee agrees to comply with any additional terms provided by Adimis and Graphtomation in connection with the use of the Client Repository.
+
+4. Licensee Obligations  
+  a. Payment: The creation and transfer of a Client Repository is contingent upon the Licensee’s full payment for the service as agreed upon in a separate service contract.  
+  b. Confidentiality: The Licensee shall maintain the confidentiality of any proprietary information provided by Adimis and Graphtomation, excluding information already publicly available in the Base Template.  
+  c. No Misrepresentation: The Licensee shall not misrepresent or imply that the Base Template is part of the Client Repository or that Adimis and Graphtomation have any ongoing rights or control over modifications made to the Client Repository.
+
+5. Warranty Disclaimer and Limitation of Liability  
+  a. No Warranty: Both the Base Template and the Client Repository are provided “as is” without any warranties, either express or implied, including without limitation any warranties of merchantability, fitness for a particular purpose, or non-infringement.  
+  b. Limitation of Liability: In no event shall Adimis and Graphtomation be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in connection with the use or inability to use the Software, even if advised of the possibility of such damages.
+
+6. Governing Law and Dispute Resolution  
+  This Agreement shall be governed by and construed in accordance with the laws of India. Any disputes arising from this Agreement shall be resolved by arbitration in accordance with the Arbitration and Conciliation Act, 1996, with the seat of arbitration in India, or, if arbitration is not elected by the parties, through the exclusive jurisdiction of the courts in India.
+
+7. Entire Agreement  
+  This Agreement constitutes the entire understanding between the parties with respect to the subject matter herein and supersedes all prior or contemporaneous agreements, representations, or understandings, whether written or oral.
+
+8. Amendments  
+  No amendment or modification of this Agreement shall be effective unless in writing and signed by both the Licensors and the Licensee.
+
+By using or accessing the Client Repository, you acknowledge that you have read, understood, and agree to be bound by the terms and conditions of this Agreement.
