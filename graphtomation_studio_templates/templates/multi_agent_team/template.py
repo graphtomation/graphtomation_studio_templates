@@ -272,4 +272,4 @@ class MultiAgentTeamGraph:
         return graph
 
 
-multi_agent_team_graph = MultiAgentTeamGraph().build()
+multi_agent_team = MultiAgentTeamGraph().build()

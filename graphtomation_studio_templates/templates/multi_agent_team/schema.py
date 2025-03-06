@@ -1,8 +1,8 @@
-from .template import multi_agent_team_graph
+from .template import multi_agent_team
 
 graph_schema = {
     "name": "Multi Agents Team Graph",
-    "state_graph": multi_agent_team_graph,
+    "state_graph": multi_agent_team,
     "compile_template_args": {
         "checkpointer": {"name": "postgres"},
         "store": {"name": "postgres"},
@@ -12,7 +12,7 @@ graph_schema = {
         "version": "0.0.1",
         "is_published": True,
         "tags": ["multi-agent", "automation", "AI-team"],
-        "documentation_path": "templates/multi_agent_team_graph/README.md",
+        "documentation_path": "templates/multi_agent_team/README.md",
     },
     "input_form_fields": [
         {

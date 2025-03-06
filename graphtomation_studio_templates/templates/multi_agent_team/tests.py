@@ -5,7 +5,7 @@ from langchain_core.runnables import RunnableConfig
 from langgraph.checkpoint.memory import MemorySaver
 from .template import (
     MultiAgentTeamBuilderConfig,
-    multi_agent_team_graph,
+    multi_agent_team,
     MultiAgentTeamGraphConfig,
 )
 
@@ -121,8 +121,8 @@ multi_agent_team_config: MultiAgentTeamBuilderConfig = {
 
 
 class MultiAgentTeamGraphTests(TestCase):
-    def test_multi_agent_team_graph_execution(self):
-        graph = multi_agent_team_graph.compile(checkpointer=MemorySaver())
+    def test_multi_agent_team_execution(self):
+        graph = multi_agent_team.compile(checkpointer=MemorySaver())
         configurable: MultiAgentTeamGraphConfig = {
             "node_specific_configs": {"team": {"team_config": multi_agent_team_config}},
             "thread_id": "1",
