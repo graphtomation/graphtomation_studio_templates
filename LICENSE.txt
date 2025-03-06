@@ -2,4 +2,4 @@ PROPRIETARY LICENSE
 
 Copyright (c) 2025 Adimis and Graphtomation.
 
-This software is licensed exclusively to members, clients, and partners of Adimis and Graphtomation. Redistribution or reuse of this software, in whole or in part, without explicit written permission is prohibited.
+This software is the exclusive property of the client or partner of Adimis or Graphtomation who has paid for the creation of the templates within this codebase. The designated owner has full rights to use, modify, distribute, or license the software as they see fit. No other entity, including Adimis, Graphtomation, or any third party, holds any rights over this software unless explicitly granted by the sole owner. Redistribution or reuse by any unauthorized party is strictly prohibited.
